@@ -1,13 +1,17 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.1",
   "update": {
     "version": "2.0.0",
     "message": ""
   },
   "live_nation_url": "https://ytmsout.radio.cn/web/appBroadcast/list?categoryId=0&provinceCode=0",
-  "review": 1,
-  "defaultLocationId": "110000",
+  "review": 0,
+  "defaultLocationId": "1",
   "locations": [
+    {
+      "locationName": "国家台",
+      "locationId": "1"
+    },
     {
       "locationName": "北京",
       "locationId": "110000"
