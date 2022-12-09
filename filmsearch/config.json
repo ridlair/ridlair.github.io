@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.2",
   "update": {
     "version": "1.0.0",
     "message": "修复了一些问题，优化了播放体验"
@@ -8,7 +8,7 @@
   "film_url_host": "www.dandanzan10.top",
   "site_url": "",
   "site_key": "dandanzan",
-  "review": 1,
+  "review": 0,
   "swipes": [
     [
       {
