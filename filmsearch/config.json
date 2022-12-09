@@ -1,12 +1,12 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "update": {
     "version": "1.0.0",
     "message": "修复了一些问题，优化了播放体验"
   },
   "film_url": "https://www.dandanzan10.top",
   "film_url_host": "www.dandanzan10.top",
-  "site_url": "                 nunuyy5.org",
+  "site_url": "nunuyy5.org",
   "site_key": "",
   "review": 0,
   "swipes": [
