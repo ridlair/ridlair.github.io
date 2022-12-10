@@ -1,5 +1,5 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.2",
   "update": {
     "version": "2.0.0",
     "message": "修复了一些问题，优化了播放体验"
@@ -7,6 +7,7 @@
   "film_url": "https://www.dandanzan10.top",
   "film_url_host": "www.dandanzan10.top",
   "film_site_url": "                                       site:nunuyy5.org",
+  "site_url":"nunuyy5.org",
   "tbm": "tbm=vid",
   "site_key": "",
   "review": 0,
