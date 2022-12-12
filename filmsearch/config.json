@@ -1,13 +1,12 @@
 {
-  "version": "2.0.5",
+  "version": "2.1.1",
   "update": {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "message": "修复了一些问题，优化了播放体验"
   },
   "film_url": "https://www.nunuyy5.org",
   "film_url_host": "www.nunuyy5.org",
   "film_site_url": "                                       site:nunuyy5.org",
-  "site_url":"nunuyy5.org",
   "tbm": "",
   "site_key": "",
   "review": 0,
@@ -275,5 +274,13 @@
   "excluded_filter_films": [
     "速度与激情"
   ],
-  "search_hint_text": "搜索电影、电视剧、综艺、动漫..."
+  "search_hint_text": "搜索电影、电视剧、综艺、动漫...",
+  "appLovin": {
+    "open": 1,
+    "key": "moTickBwmUx6KT2Hl0mHHHVg4CqyJQiifLsQAwD3qWdvTXtTLHJm0hScoDhSXISuAQ5CCan0rCm7RBcKcMkT_C",
+    "home": "fbf5cb1fab0a544d",
+    "explore": "b772423e0949bff8",
+    "detail": "9769b849ea2a2512",
+    "interstitial": "0b2fecc191f07d57"
+  }
 }
