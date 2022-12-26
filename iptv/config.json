@@ -1,10 +1,10 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "update": {
     "version": "1.0.0",
     "message": "修复了一些问题"
   },
-  "review": 1,
+  "review": 0,
   "include_channels": [
     "央视",
     "卫视",
