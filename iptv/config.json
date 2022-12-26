@@ -1,14 +1,15 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.0",
   "update": {
     "version": "1.0.0",
     "message": "修复了一些问题"
   },
-  "review": 0,
+  "review": 1,
   "include_channels": [
     "央视",
     "卫视",
     "综合",
+    "极速港澳台",
     "体育",
     "百事通IPTV",
     "江西移动IPTV"
