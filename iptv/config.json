@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "update": {
     "version": "1.0.0",
     "message": "修复了一些问题"
@@ -12,7 +12,8 @@
     "极速港澳台",
     "体育",
     "百事通IPTV",
-    "江西移动IPTV"
+    "江西移动IPTV",
+    "北方云IPTV"
   ],
   "home_url": "https://player.ggiptv.com/iptva.php?app=136",
   "programme_url": "https://player.ggiptv.com/iptv.php",
