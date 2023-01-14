@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
+  "version": "2.0.4",
   "update": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "message": "修复了一些问题"
   },
   "review": 0,
@@ -14,6 +14,15 @@
     "江西移动IPTV",
     "北方云IPTV"
   ],
+  "ad": {
+    "open": 1,
+    "key": "moTickBwmUx6KT2Hl0mHHHVg4CqyJQiifLsQAwD3qWdvTXtTLHJm0hScoDhSXISuAQ5CCan0rCm7RBcKcMkT_C",
+    "home": "d78b6f58e3a1f5d0",
+    "detail": "4714574caa1bed93",
+    "interstitial": "36db543917e6f3be",
+    "reward": "3c5417810eb2c426",
+    "reward_columns": "港澳台"
+  },
   "home_url": "https://player.ggiptv.com/iptva.php?app=136",
   "programme_url": "https://player.ggiptv.com/iptv.php",
   "base_url": "https://player.ggiptv.com/",
